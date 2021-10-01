@@ -6,6 +6,8 @@ Trying to make and style a webpage with styled-components. First time ever doing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Making change on the second branch
+
 ## Available Scripts
 
 In the project directory, you can run:
