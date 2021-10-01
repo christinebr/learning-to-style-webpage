@@ -2,6 +2,8 @@
 
 Trying to make and style a webpage with styled-components. First time ever doing this.
 
+making changes on the first branch
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
